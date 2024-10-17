@@ -32,3 +32,11 @@ This is a User Management application that allows users to register, edit their 
 ```bash
 git clone https://github.com/abhishek9640/sukriti
 
+```bash
+cd backend
+npm start
+
+```bash
+cd frontend
+npm run dev
+
