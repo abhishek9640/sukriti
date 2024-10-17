@@ -31,5 +31,5 @@ This is a User Management application that allows users to register, edit their 
 ### Clone the Repository
 
 ```bash
-git clone [<repository-url>](https://github.com/abhishek9640/sukriti)
+git clone https://github.com/abhishek9640/sukriti
 
