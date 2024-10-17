@@ -26,7 +26,6 @@ This is a User Management application that allows users to register, edit their 
 ### Prerequisites
 
 - Node.js (v12 or higher)
-- MongoDB (or your preferred database)
 
 ### Clone the Repository
 
