@@ -19,7 +19,7 @@ This is a User Management application that allows users to register, edit their 
 - **Backend**:
   - Node.js
   - Express
-  - MongoDB (or any other database of your choice)
+  - MongoDB
 
 ## Installation
 
